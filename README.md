@@ -20,6 +20,11 @@ Here the syatem draws a random number on each dice.
 ## How to win
 The player with the greater value on the side of the dice wins.
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
 ## Developed with
 This game was developed using javascript math.random that draws numbers randomly.
 
