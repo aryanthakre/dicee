@@ -28,6 +28,6 @@ Please make sure to update tests as appropriate.
 ## Developed with
 This game was developed using javascript math.random that draws numbers randomly.
 
-### Copyright(c) 2020
+### Copyright(c) 2020 Aryan Thakre
 
 
